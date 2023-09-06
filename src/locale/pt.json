@@ -1,0 +1,20 @@
+{
+    "signUp": "Inscrever-se",
+    "logIn": "Conecte-se",
+    "username": "Nome de usuário",
+    "logout": "Sair",
+    "profile": "Perfil",
+    "email": "E-mail",
+    "password": "Senha",
+    "passwordRepeat": "Repetir senha",
+    "passwordMismatch": "Senha incorreta",
+    "footerTitle": "Selecione o idioma",
+    "titleOne": "Unido",
+    "titleTwo": "Linguagem",
+    "titleThree": "Sociedade",
+    "title":"Unido Language Sociedade",
+    "foot":"Unidos estamos de pé.",
+    "home": "Lar",
+    "share": "Compartilhe sua história",
+    "submit": "Enviar"
+}

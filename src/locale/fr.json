@@ -1,0 +1,20 @@
+{
+    "signUp": "S'inscrire",
+    "logIn": "Se connecter",
+    "username": "Nom d'utilisateur",
+    "email": "E-mail",
+    "logout": "Log Out",
+    "profile": "Profile",
+    "password": "Mot de passe",
+    "passwordRepeat": "Répéter le mot de passe",
+    "passwordMismatch": "Non concordance des mots de passe",
+    "footerTitle": "Veuillez sélectionner la langue",
+    "titleOne": "Uni",
+    "titleTwo": "Langue",
+    "titleThree": "Société",
+    "title":"Uni Langue Société",
+    "foot":"Unis, nous sommes debout.",
+    "home": "Maison",
+    "share": "Partagez votre histoire",
+    "submit": "Soumettre"
+}

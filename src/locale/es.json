@@ -1,0 +1,20 @@
+{
+    "signUp": "Inscribirse",
+    "logIn": "Acceso",
+    "username": "Nombre de usuario",
+    "logout": "Cerrar sesión",
+    "profile": "Perfil",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "passwordRepeat": "Repite la contraseña",
+    "passwordMismatch": "Contraseña no coincide",
+    "footerTitle": "Por favor seleccione idioma",
+    "titleOne": "Unido",
+    "titleTwo": "Idioma",
+    "titleThree": "Sociedad",
+    "title":"Unido Idioma Sociedad",
+    "foot":"Permanecemos unidos.",
+    "home": "Hogar",
+    "share": "Comparte tu historia",
+    "submit": "Entregar"
+}

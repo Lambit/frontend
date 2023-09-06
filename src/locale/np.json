@@ -1,0 +1,20 @@
+{
+    "signUp": "साइन अप",
+    "logIn": "लग - इन",
+    "username": "प्रयोगकर्ता नाम",
+    "email": "इ-मेल",
+    "logout": "Log Out",
+    "profile": "Profile",
+    "password": "पासवर्ड",
+    "passwordRepeat": "पासवर्ड दोहोर्याउनुहोस्",
+    "passwordMismatch": "पासवर्ड बेमेल",
+    "footerTitle": "कृपया भाषा चयन गर्नुहोस्",
+    "titleOne": "संयुक्त",
+    "titleTwo": "भाषा",
+    "titleThree": "समाज",
+    "title":"संयुक्त भाषा समाज",
+    "foot":"हामी एकजुट छौं।",
+    "home": "घर",
+    "share": "आफ्नो कथा साझा गर्नुहोस्",
+    "submit": "पेश गर्नुहोस्"
+}

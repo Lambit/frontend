@@ -1,0 +1,20 @@
+{
+    "signUp": "サインアップ",
+    "logIn": "ログイン",
+    "username": "ユーザー名",
+    "logout": "ログアウト",
+    "profile": "プロフィール",
+    "email": "Eメール",
+    "password": "パスワード",
+    "passwordRepeat": "パスワードの繰り返し",
+    "passwordMismatch": "パスワード",
+    "footerTitle": "言語を選択してください",
+    "titleOne": "ユナイテッド",
+    "titleTwo": "言語",
+    "titleThree": "社会",
+    "title":"ユナイテッド 言語 社会",
+    "foot":"我々は団結して立ち上がる。",
+    "home": "家",
+    "share": "あなたのストーリーを共有してください",
+    "submit": "提出する"
+}

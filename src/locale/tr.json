@@ -1,0 +1,20 @@
+{
+    "signUp": "Kayit Ol",
+    "logIn": "Giriş yapmak",
+    "username": "Kullanici Adi",
+    "logout": "Çıkış Yap",
+    "profile": "Profil",
+    "email": "E-posta",
+    "password": "Şifre",
+    "passwordRepeat": "Şifre Tekrari",
+    "passwordMismatch": "Şifre Eşleşmiyor",
+    "footerTitle": "Lütfen Dil Seçiniz",
+    "titleOne": "Birleşik",
+    "titleTwo": "Dil",
+    "titleThree": "Toplum",
+    "title":"Birleşik Dil Toplum",
+    "foot":"Birleşik olarak ayaktayız.",
+    "home": "Ev",
+    "share": "Hikayenizi paylaşın",
+    "submit": "Göndermek"
+}

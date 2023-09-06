@@ -1,0 +1,22 @@
+{
+    "signUp": "Sign Up",
+    "logIn": "Log In",
+    "username": "Username",
+    "logout": "Log Out",
+    "profile": "Profile",
+    "email": "E-mail",
+    "password": "Password",
+    "edit": "Edit Profile",
+    "delete": "Delete Account",
+    "passwordRepeat": "Password Repeat",
+    "passwordMismatch": "Password Mismatch",
+    "footerTitle": "Please Select Language",
+    "titleOne": "United",
+    "titleTwo": "Language",
+    "titleThree": "Society",
+    "title":"United Language Society",
+    "foot":"United we stand.",
+    "home": "Home",
+    "share": "Share your story",
+    "submit": "Submit"
+}

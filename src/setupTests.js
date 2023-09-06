@@ -3,3 +3,12 @@
 // expect(element).toHaveTextContent(/react/i)
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom';
+import { act } from 'react-dom/test-utils';
+import i18 from './locale/i18';
+
+afterEach(() => {
+    act(() => {
+        i18.changeLanguage('en');
+    });
+    localStorage.clear();
+});

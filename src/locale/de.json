@@ -1,0 +1,20 @@
+{
+    "signUp": "Melden Sie sich an",
+    "logIn": "Anmeldung",
+    "logout": "Ausloggen",
+    "profile": "Profil",
+    "username": "Nutzername",
+    "email": "Email",
+    "password": "Passwort",
+    "passwordRepeat": "Passwort wiederholen",
+    "passwordMismatch": "Die Passwörter stimmen nicht überein",
+    "footerTitle": "Bitte wählen Sie die Sprache aus",
+    "titleOne": "Vereinigt",
+    "titleTwo": "Sprache",
+    "titleThree": "Gesellschaft",
+    "title":"Vereinigt Sprache Gesellschaft",
+    "foot":"Vereinigt stehen wir.",
+    "home": "Heim",
+    "share": "Teilen Sie Ihre Geschichte",
+    "submit": "Einreichen"
+}

@@ -1,24 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useContext, useEffect } from "react";
+import Layout from "./layout";
+import AppRoutes from "./routes/Routes";
+import storage from "./storage/storage";
+import { AuthContext } from "./context/Auth";
+
 
 function App() {
+  const { setUser } = useContext(AuthContext);
+
+  useEffect((firstValue = null) => {
+    const loggedInUser = storage.getItem("user") || firstValue;
+    // if (loggedInUser !== firstValue) {
+      setUser(loggedInUser);
+    // }
+  }, [setUser]);
+
+
+  
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Layout>
+          <div className="container my-4">
+            <AppRoutes />
+          </div>
+      </Layout>
   );
 }
 

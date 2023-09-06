@@ -1,0 +1,20 @@
+{
+    "signUp": "報名",
+    "logIn": "登錄",
+    "logout": "登出",
+    "profile": "輪廓",
+    "username": "用戶名",
+    "email": "電子郵件",
+    "password": "密碼",
+    "passwordRepeat": "密碼重複",
+    "passwordMismatch": "密碼不匹配",
+    "footerTitle": "請選擇語言",
+    "titleOne": "團結的",
+    "titleTwo": "語言",
+    "titleThree": "社會",
+    "title":"團結的 語言 社會",
+    "foot":"團結就是力量。",
+    "home": "家",
+    "share": "分享你的故事",
+    "submit": "提交"
+}
