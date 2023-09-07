@@ -49,7 +49,9 @@ const SignUp = () => {
             setLoading(false);
             setSuccessCall(true);
         } catch (err) {
-            setErrors(err.response.data.validationErrors);
+            if(err.response.status === 400){
+                setErrors(err.response.data.validationErrors);
+            }
             setLoading(false);
         }  
     };

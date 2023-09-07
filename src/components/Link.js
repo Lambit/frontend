@@ -10,7 +10,7 @@ const AppLink = (props) => {
             <NavLink
                 to={to}
                 onClick={onClick}
-                active={({ isActive, isPending }) =>
+                className={({ isActive, isPending }) =>
                   isActive
                     ? "active"
                     : isPending
