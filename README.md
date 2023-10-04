@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# lingo-selector-frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+* Description
+* Usage
+* Testing
+* Contributing
 
-## Available Scripts
 
-In the project directory, you can run:
+## Description
+This React application allows users to create an account and select their favorite language. It features additional functionality, such as sending a registration email and storing user data in an SQLite database. The project is powered by various packages, including i18next for internationalization, Bootstrap 5 for styling, and react-router-dom for navigation. The application is deployed on Heroku for easy access.
 
+## Key Features
+* User account creation with secure password storage.
+* Selection of a favorite programming language from a predefined list.
+* Sending a registration confirmation email.
+* Storing user data in an SQLite database.
+* Internationalization support with i18next.
+* Smooth navigation using react-router-dom.
+* Stylish and responsive user interface using Bootstrap 5.
+* Responsive and user-friendly web interface.
+* Deployment on Heroku for public access.
+
+
+## Usage
 ### `npm start`
+1. Open a web browser and navigate to http://localhost:3000 (or your configured port).
+2. Sign up for an account by providing your email and password.
+3. After successfully creating an account, you will be prompted to select your favorite language from the available options.
+4. Once you've made your selection, you will be redirected to a confirmation page.
+5. You can log in to your account at any time to view or update your favorite language.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+## Testing
 ### `npm test`
+This application uses Jest, msw, and user-event, for testing. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Deployment
+This application is deployed on Heroku for public access. You can access it at [Lingo Selector](https://intense-forest-79408-88ea4280e886.herokuapp.com/).
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+1. If you would like to contribute to the development of this application, please follow these guidelines:
+2. Fork the repository.
+3. Create a new branch for your feature or bug fix:
+   #### `git checkout -b feature-name`
+5. Push your changes to your forked repository.
+6. Create a pull request to merge your changes into the main repository.
